@@ -1,0 +1,10 @@
+adminUser:
+  password: local:wonderful-outfit-1592211040/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: 40theridgeway@gmail.com
+  token: local:wonderful-outfit-1592211040/pipelineUser:token
+  username: danieldoran
+prow:
+  hmacToken: local:wonderful-outfit-1592211040/prow:hmacToken
